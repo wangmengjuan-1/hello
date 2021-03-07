@@ -8,7 +8,7 @@
     <div>{{fullName}}</div>
     <div :class="{blue:isBlue,red:isRed}">王孟娟</div>
     <div :style="{color:isBlue? 'blue': 'red'}">王孟娟2</div>
-
+  <div>222222222222</div>
   </div>
 </template>
 
